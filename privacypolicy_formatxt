@@ -1,0 +1,80 @@
+# Política de Privacidad - FORMATXT
+
+**Última actualización: Diciembre 2024**
+
+## Introducción
+
+FORMATXT ("nosotros", "nuestro" o "la aplicación") se compromete a proteger la privacidad de nuestros usuarios. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos su información cuando utiliza nuestra aplicación de notas encriptadas.
+
+## Información que Recopilamos
+
+### Información que NO recopilamos
+- **No recopilamos datos personales**: FORMATXT no recopila, almacena ni transmite ningún dato personal identificable.
+- **No hay telemetría**: No enviamos datos de uso, estadísticas ni información analítica a servidores externos.
+- **No hay cuentas de usuario**: La aplicación funciona completamente offline sin requerir registro o inicio de sesión.
+
+### Información local únicamente
+- **Notas encriptadas**: Sus notas se almacenan únicamente en su dispositivo, encriptadas con AES-256.
+- **Contraseña local**: Su contraseña se almacena de forma segura en el Keychain de iOS de su dispositivo.
+- **Configuraciones de la app**: Preferencias locales almacenadas únicamente en su dispositivo.
+
+## Cómo Usamos la Información
+
+- **Todas las operaciones son locales**: FORMATXT funciona completamente offline.
+- **Encriptación end-to-end**: Sus datos están protegidos con encriptación AES-256 antes de ser almacenados.
+- **Sin sincronización en la nube**: Los datos no se sincronizan con servicios en la nube.
+
+## Seguridad de los Datos
+
+### Medidas de Seguridad Implementadas
+- **Encriptación AES-256**: Todas las notas se encriptan con estándares militares.
+- **Autenticación biométrica**: Soporte para Face ID/Touch ID cuando está disponible.
+- **Autodestrucción**: Eliminación automática de datos tras múltiples intentos fallidos.
+- **Keychain iOS**: Las contraseñas se almacenan de forma segura usando el Keychain de iOS.
+
+### Sin Transmisión de Datos
+- **Completamente offline**: La aplicación no requiere conexión a internet.
+- **Sin servidores**: No operamos servidores que almacenen sus datos.
+- **Sin terceros**: No compartimos datos con servicios de terceros.
+
+## Permisos de la Aplicación
+
+FORMATXT solicita únicamente los siguientes permisos:
+- **Biometric ID**: Para autenticación segura (opcional).
+- **Almacenamiento local**: Para guardar sus notas encriptadas en el dispositivo.
+
+## Derechos del Usuario
+
+Como usuario de FORMATXT, usted tiene:
+- **Control total**: Complete control sobre sus datos ya que permanecen en su dispositivo.
+- **Eliminación**: Puede eliminar todos los datos simplemente eliminando la aplicación.
+- **Sin dependencias**: No depende de servicios externos o cuentas de terceros.
+
+## Menores de Edad
+
+FORMATXT es apropiada para usuarios de todas las edades ya que:
+- No recopila información personal
+- Funciona completamente offline
+- No contiene publicidad ni compras in-app
+
+## Cambios a esta Política
+
+Cualquier cambio a esta Política de Privacidad será notificado a través de actualizaciones de la aplicación. El uso continuado de la aplicación constituye aceptación de los cambios.
+
+## Contacto
+
+Si tiene preguntas sobre esta Política de Privacidad, puede contactarnos en:
+- **Email**: matias.penachino@example.com
+- **Desarrollador**: Matías Andrés Penachino
+
+## Cumplimiento
+
+Esta política cumple con:
+- Regulaciones de privacidad de Apple App Store
+- GDPR (Reglamento General de Protección de Datos)
+- CCPA (Ley de Privacidad del Consumidor de California)
+- Otras regulaciones de privacidad aplicables
+
+---
+
+**Nota**: Al utilizar FORMATXT, usted acepta esta Política de Privacidad. Sus datos permanecen siempre bajo su control y en su dispositivo. 
